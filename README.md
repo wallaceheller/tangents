@@ -1,5 +1,4 @@
-<span># uprising</span>Make it gleam!
-Make it gleam!
+<span style="font-size:3 em; font-weight: 700;">uprising</span>&nbsp;Make it gleam!
 
 [He Wept](https://he-wept.github.io/1/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tier One English](https://tier-one-english.github.io/entrada/)
 
