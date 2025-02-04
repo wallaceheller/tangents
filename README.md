@@ -17,6 +17,13 @@ Whatever you do—make it gleam!
 <br>
 
 [LINK](/posts/post.md)
-<br><br><br><br>
 <a id="test"></a>
+<br><br><br><br>
+[LINK](/posts/post2.md) 
+<a id="test2"></a>
+<br><br><br><br>
+[LINK](/posts/post3.md)
+<a id="test3"></a>
+<br><br><br><br>
+
 
