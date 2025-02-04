@@ -1,14 +1,20 @@
 # uprising
 
-Make it gleam!
-
-Always on top:
-
-- [He Wept](https://he-wept.github.io/1/) Original fiction that bleeds.
-
-- [Tier One English](https://tier-one-english.github.io/entrada/) Make English work for you.
+A conversation about getting started and making up for lost time.
 
 <br>
 
-A conversation about getting started and making up for lost time.
+Whatever you do—make it gleam!
+
+
+
+**Always on top.** 
+
+[He Wept: Original fiction that bleeds.](https://he-wept.github.io/1/) 
+
+[Tier One: Make English work for you.](https://tier-one-english.github.io/entrada/) 
+
+<br>
+
+
 
