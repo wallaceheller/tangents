@@ -6,6 +6,6 @@ Whatever you do—make it gleam!
 
 **Always on top.**
 
-[He Wept: Original fiction that bleeds.] (https://he-wept.github.io/1/)
+<a href="https://he-wept.github.io/1/">He Wept: Original fiction that bleeds.</a>
 
-[Tier One: Make English work for you.] (https://tier-one-english.github.io/entrada/)
+<a href="https://tier-one-english.github.io/entrada/">Tier One: Make English work for you.</a>
