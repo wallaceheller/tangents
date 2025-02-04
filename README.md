@@ -19,9 +19,11 @@ Whatever you do—make it gleam!
 [LINK](/posts/post.md)
 <a id="test"></a>
 <br><br><br><br>
+![An image.](/assets/images/test.jpg)
 [LINK](/posts/post2.md) 
 <a id="test2"></a>
 <br><br><br><br>
+![An image.](/assets/images/test.jpg)
 [LINK](/posts/post3.md)
 <a id="test3"></a>
 <br><br><br><br>
