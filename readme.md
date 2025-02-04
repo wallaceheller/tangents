@@ -4,9 +4,9 @@ Make it gleam!
 
 Always on top:
 
-<span style="left-margin: 2em;">[He Wept](https://he-wept.github.io/1/)</span>
+<ul><li>[He Wept](https://he-wept.github.io/1/)</li>
 
-<span style="left-margin: 2em;">[Tier One English](https://tier-one-english.github.io/entrada/)</span>
+<li>[Tier One English](https://tier-one-english.github.io/entrada/)</li></ul>
 
 <br>
 
