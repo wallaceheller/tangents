@@ -16,5 +16,5 @@ Whatever you do—make it gleam!
 
 <br>
 
-
+[LINK](/posts/post.md)
 
