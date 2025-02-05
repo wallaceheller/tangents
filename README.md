@@ -18,4 +18,4 @@ Whatever you do—make it gleam!
 
 Clothes are one thing, websites quite another.
 
-<a href="">THIS!</a>
+<a href="https://wallaceheller.github.io/uprising/">THIS!</a>
